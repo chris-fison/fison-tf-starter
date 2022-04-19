@@ -1,5 +1,7 @@
 # Starter Terraform CAF Repo (fison-tf-starter)
 
+Blog source: https://www.fisontech.net/p/day-52-terraform-enterprise-scale-landing-zone/
+
 Quick Notes:
 
 Straight forward enough, this will pop open a browser window and ask you to login with an account, ensure this has permissions.
@@ -25,8 +27,6 @@ Move a subscription into a management group
 Remove subscription from specified management group, this will set it back to the root tenant.
 
 #Remove-AzManagementGroupSubscription -GroupId "ft-fisontech-dev" -SubscriptionId "xxx-xxx-xxx-xxx"
-
-Personal Blog: fisontech.net
 
 Handy Links:
 
