@@ -11,23 +11,23 @@ Connect-AzAccount
 
 Grabs the list of subscriptions your account above has access to.
 
-Get-AzSubscription
+#Get-AzSubscription
 
 Sets the subscription you want to work with, suggest you ensure this is set to the one you wish to work with.
 
-Set-AzContext -Name Fisontech-CAF
+#Set-AzContext -Name Fisontech-CAF
 
 Get a list of management groups, run this to save you checking the portal.
 
-Get-AzManagementGroup
+#Get-AzManagementGroup
 
 Move a subscription into a management group
 
-New-AzManagementGroupSubscription -GroupId "ft-fisontech-dev" -SubscriptionId "xxx-xxx-xxx-xxx"
+#New-AzManagementGroupSubscription -GroupId "ft-fisontech-dev" -SubscriptionId "xxx-xxx-xxx-xxx"
 
 Remove subscription from specified management group, this will set it back to the root tenant.
 
-Remove-AzManagementGroupSubscription -GroupId "ft-fisontech-dev" -SubscriptionId "xxx-xxx-xxx-xxx"
+#Remove-AzManagementGroupSubscription -GroupId "ft-fisontech-dev" -SubscriptionId "xxx-xxx-xxx-xxx"
 
 link to blog: fisontech.net
 
