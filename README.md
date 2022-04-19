@@ -33,10 +33,16 @@ link to blog: fisontech.net
 
 Handy links
 
-https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki for more information.
+https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki
+
 https://docs.microsoft.com/en-us/powershell/azure/authenticate-azureps?view=azps-7.4.0
+
 https://github.com/Azure/azure-powershell/issues/11718
+
 https://www.jorgebernhardt.com/azure-management-groups/
+
 https://github.com/Azure/azure-powershell/blob/main/documentation/breaking-changes/breaking-changes-messages-help.md
+
 https://docs.microsoft.com/en-us/powershell/module/az.resources/new-azresourcegroup?view=azps-7.4.0
+
 https://docs.microsoft.com/en-us/powershell/module/az.resources/new-azmanagementgroupsubscription?view=azps-7.4.0
