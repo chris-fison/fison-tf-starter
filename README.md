@@ -1,9 +1,7 @@
 # fison-tf-starter
 # Starter Terraform CAF Repo
 
-
-Quick notes:
-
+Quick Notes:
 
 Straight forward enough, this will pop open a browser window and ask you to login with an account, ensure this has permissions.
 
@@ -29,9 +27,9 @@ Remove subscription from specified management group, this will set it back to th
 
 #Remove-AzManagementGroupSubscription -GroupId "ft-fisontech-dev" -SubscriptionId "xxx-xxx-xxx-xxx"
 
-link to blog: fisontech.net
+Personal Blog: fisontech.net
 
-Handy links:
+Handy Links:
 
 https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki
 
