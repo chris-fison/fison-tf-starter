@@ -31,7 +31,7 @@ Remove-AzManagementGroupSubscription -GroupId "ft-fisontech-dev" -SubscriptionId
 
 link to blog: fisontech.net
 
-Handy links
+Handy links:
 
 https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki
 
